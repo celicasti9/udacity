@@ -1,1 +1,43 @@
 /* add your CSS here */
+h3 {
+    color: solid black;
+    padding: 10px;
+    border: 1px;
+    height: 2px;
+}
+
+.top{
+    height: 500px;
+    width: 320px;
+    border: 1px solid gray;
+
+}
+
+.con1{
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    border: 1px ;
+    
+    
+}
+
+.con2{
+    height: 200px;
+    width: 300px;
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 1px;
+}
+
+ul li{
+    list-style-type: none;
+    padding: 1px;
+    text-align: left;
+    position: left;
+    margin: 1px;
+    
+
+    
+}
+
